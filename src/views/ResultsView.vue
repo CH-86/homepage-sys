@@ -25,7 +25,7 @@ const devTools = ref([
   },
   {
     title: '・アパレル向け経営管理システム',
-    items: ['OS400', 'AS/400']
+    items: ['AS/400']
   },
   {
     title: '・短期派遣管理システム',
@@ -38,7 +38,31 @@ const devTools = ref([
   {
     title: '・オンライン受発注、請求、支払いシステム（EOS）',
     items: ['AS/400']
-  }
+  },
+  {
+    title: '・不動産向け定期点検保守管理システム',
+    items: ['AS/400']
+  },
+  {
+    title: '・賃貸物件クレーム管理システム',
+    items: ['Notes Domino']
+  },
+  {
+    title: '・会員管理システム',
+    items: ['Access']
+  },
+  {
+    title: '・売上明細ＰＣ取り込みシステム',
+    items: ['AS/400 <> PC']
+  },
+  {
+    title: '・請求書発行システム',
+    items: ['AS/400 <> Access']
+  },
+  {
+    title: '・不動産請求書発行システム',
+    items: ['AS/400']
+  },
 ])
 </script>
 
