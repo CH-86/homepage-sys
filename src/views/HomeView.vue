@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import { ref } from 'vue'
 import ContList from '../components/ContList.vue'
 import ApplyForm from '../components/ApplyForm.vue'
